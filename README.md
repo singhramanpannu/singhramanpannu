@@ -1,5 +1,5 @@
 
-#👋 Hi, I’m Ramanpreet Singh Pannu
+# 👋 Hi, I’m Ramanpreet Singh Pannu
 
 💻 Full-Stack Developer | React.js | Node.js | Automation | Java
 
@@ -7,7 +7,7 @@
 
 <br>
 
-##🔭 Some of my key professional projects include:
+## 🔭 Some of my key professional projects include:
 
 - Enterprise Content Migration Tool – Automated migration of 6,000+ Adobe FrameMaker files into Confluence using Groovy, React, and REST APIs, reducing manual workload dramatically.
 
@@ -18,14 +18,14 @@
 - KCOM UI Refactor – Improved UI performance by ~40% and resolved 50+ high-impact bugs for a large enterprise application.
 <br>
 
-##🌱 Personal Projects:
+## 🌱 Personal Projects:
 
 - Interior Designer Portfolio Website – Created a modern portfolio using React.js, Tailwind CSS, and Framer Motion.
 
 - Productivity Tracker App – Built with React, Redux, and Chart.js, featuring persistent data and Pomodoro tracking.
 <br>
 
-##🧠 Tech Stack:
+## 🧠 Tech Stack:
 
 Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Redux
 
@@ -38,10 +38,11 @@ Tools & Platforms: Git/BitBucket, Jira, Confluence, AEM, Figma
 Practices: RESTful APIs, JWT auth, Agile/Scrum, automation, performance optimization
 
 <br>
-##🌟 What drives me:
+
+## 🌟 What drives me:
 Building solutions that automate repetitive work, enhance user experience, and scale elegantly. Always open to learning, collaborating, and contributing to impactful projects.
 
-##📫 Let’s connect:
+## 📫 Let’s connect:
 <br>
-LinkedIn 
-<br>• Email
+- LinkedIn 
+- Email
